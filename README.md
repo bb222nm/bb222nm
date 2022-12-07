@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bb222nm
+- 👋 Hi, I’m Behnam
 - 👀 I’m interested in Coding and Graphic Design
-- 🌱 I’m currently learning JS, Python, and more
-- 💞️ I’m looking to collaborate on open source projects of all kinds
-- 📫 How to reach me: drop me a private message here
+- 🌱 I’m currently coding in JS, Python, Php, and more
+- 📫 Feel free to drop me a private message here
 
 <!---
 bb222nm/bb222nm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
