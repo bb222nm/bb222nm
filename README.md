@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Behnam
 - 👀 I’m interested in Coding and Graphic Design
 - 🌱 I’m currently coding in JS, Python, Php, and more
-- 💞️ I’m looking to collaborate on open source projects of all kinds
 - 📫 Feel free to drop me a private message here
 
 <!---
