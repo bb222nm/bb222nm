@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Behnam
+- 👋 Hi!
 - 👀 I’m interested in Coding and Graphic Design
 - 🌱 I’m currently coding in JS, Python, Php, and more
 - 📫 Feel free to drop me a private message here
